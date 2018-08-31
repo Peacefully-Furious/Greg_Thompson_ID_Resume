@@ -10,9 +10,9 @@ Detail-oriented, self-motivated human performance professional with experience i
 
 | Training Development Tools  | Cloud Platforms | ID and Project Management Models | Content Development | 
 | ------------- | ------------- | -----------  | --------------|   
-| Content Cell  | Content Cell  | content Cell | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell | Content Cell  |
+| Camtasia  | Content Cell  | content Cell | Content Cell  |
+| Captivate  | Content Cell  | Content Cell | Content Cell  |
+| Articulate Storyline 360 Suite | Content Cell  | Content Cell | Content Cell  |
+| MS Office  | Content Cell  | Content Cell | Content Cell  |
+| Adobe Tech Com Suite (FrameMaker)  Content Cell  | Content Cell | Content Cell  |
+| Audacity  | Content Cell  | Content Cell | Content Cell  |
