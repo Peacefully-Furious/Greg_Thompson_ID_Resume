@@ -14,5 +14,5 @@ Detail-oriented, self-motivated human performance professional with experience i
 | Captivate  | Content Cell  | Content Cell | Content Cell  |
 | Articulate Storyline 360 Suite | Content Cell  | Content Cell | Content Cell  |
 | MS Office  | Content Cell  | Content Cell | Content Cell  |
-| Adobe Tech Com Suite (FrameMaker)  Content Cell  | Content Cell | Content Cell  |
+| Adobe Tech Com Suite (FrameMaker) Content Cell  | Content Cell | Content Cell  |
 | Audacity  | Content Cell  | Content Cell | Content Cell  |
