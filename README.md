@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/gthomp/
 
 Detail-oriented, self-motivated human performance professional with experience in identifying, developing and improving learning content. Experienced with all aspects of the training project management, development  and delivery process, including assessing user needs, gathering and organizing information, collaborating with SMEs and UI/UX designers, internationalizing and localizing products, managing content development, and soliciting and evaluating user feedback. Very active in the instructional design, human performance, and open source software online communities as a presenter and blogger. I am always eagerly pursuing professional development as a elearning professional.
 
-| First Header  | Second Header | Third Header | Fourth Header | 
+| Training Development Tools  | Cloud Platforms | ID and Project Management Models | Content Development | 
 | ------------- | ------------- | -----------  | --------------|   
 | Content Cell  | Content Cell  | content Cell | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell | Content Cell  |
