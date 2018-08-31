@@ -10,9 +10,16 @@ Detail-oriented, self-motivated human performance professional with experience i
 
 | Training Development Tools  | Cloud Platforms | ID and Project Management Models | Content Development | 
 | ------------- | ------------- | -----------  | --------------|   
-| Camtasia  | Epic medical records  | Gagne's 9 Events of Instruction | Needs Assessment  |
-| Captivate  | Content Cell  | Content Cell | Content Cell  |
-| Articulate Storyline 360 Suite | Content Cell  | Content Cell | Content Cell  |
+| Camtasia  | Epic  | Gagne's 9 Events of Instruction | Needs Assessment  |
+| Captivate  | AllScripts  | Content Cell | Task Analysis  |
+| Articulate Storyline 360 Suite | AMS  | CRI | Content Cell  |
 | MS Office  | Content Cell  | Content Cell | Content Cell  |
-| Adobe Tech Com Suite (FrameMaker) Content Cell  | Content Cell | Content Cell  |
+| Adobe Tech Com Suite (FrameMaker)  | Content Cell  | Content Cell | Content Cell  |
 | Audacity  | Content Cell  | Content Cell | Content Cell  |
+| HTML5 | Content Cell  | Content Cell | Content Cell  |
+| CSS  | Content Cell  | Content Cell | Content Cell  |
+| Markdown  | Content Cell  | Content Cell | Content Cell  |
+| JavaScript  | Content Cell  | Content Cell | Content Cell  |
+| Atom  | Content Cell  | Content Cell | Content Cell  |
+| Jekyl | Content Cell  | Content Cell | Content Cell  |
+| Various Open Source Tools | Content Cell  | Content Cell | Content Cell  |
