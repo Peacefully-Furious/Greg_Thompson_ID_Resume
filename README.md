@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+### Greg Thompson
+414 Grassy Point Road
+Apex, NC 27502
+Mobile: 408-893-8461
+LinkedIn: https://www.linkedin.com/in/gthomp/
 
-You can use the [editor on GitHub](https://github.com/Peacefully-Furious/Test-Site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Principal Instructional Designer and eLearning Developer
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
