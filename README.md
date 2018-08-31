@@ -1,12 +1,12 @@
 ### Greg Thompson
 414 Grassy Point Road
-Apex, NC 27502
-Mobile: 408-893-8461
+Apex, NC 27502 Mobile: 408-893-8461
+
 LinkedIn: https://www.linkedin.com/in/gthomp/
 
 ### Principal Instructional Designer and eLearning Developer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Detail-oriented, self-motivated human performance professional with experience in identifying, developing and improving learning content. Experienced with all aspects of the training project management, development  and delivery process, including assessing user needs, gathering and organizing information, collaborating with SMEs and UI/UX designers, internationalizing and localizing products, managing content development, and soliciting and evaluating user feedback. Very active in the instructional design, human performance, and open source software online communities as a presenter and blogger. I am always eagerly pursuing professional development as a elearning professional.
 
 ```markdown
 Syntax highlighted code block
