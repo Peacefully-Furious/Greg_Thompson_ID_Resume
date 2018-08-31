@@ -10,7 +10,7 @@ Detail-oriented, self-motivated human performance professional with experience i
 
 | Training Development Tools  | Cloud Platforms | ID and Project Management Models | Content Development | 
 | ------------- | ------------- | -----------  | --------------|   
-| Camtasia  | Content Cell  | content Cell | Content Cell  |
+| Camtasia  | Epic medical records  | Gagne's 9 Events of Instruction | Needs Assessment  |
 | Captivate  | Content Cell  | Content Cell | Content Cell  |
 | Articulate Storyline 360 Suite | Content Cell  | Content Cell | Content Cell  |
 | MS Office  | Content Cell  | Content Cell | Content Cell  |
